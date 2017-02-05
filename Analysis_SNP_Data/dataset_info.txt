@@ -1,0 +1,5 @@
+You can download the datasets for this project from following links:
+
+1. Training Data: https://web.njit.edu/~usman/courses/cs675_fall16/traindata.gz
+2. True Class Labels: https://web.njit.edu/~usman/courses/cs675_fall16/trueclass
+3. Test Data: https://web.njit.edu/~usman/courses/cs675_fall16/testdata.gz
